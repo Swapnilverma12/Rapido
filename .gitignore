@@ -434,6 +434,6 @@ npm-debug.log
 *.msi
 *.msm
 *.msp
-/SVQC/obj/Debug/net8.0/SVQC.csproj.FileListAbsolute.txt
-/SVQC/obj/Debug/net8.0/SVQC.assets.cache
-/.vs/SVQC/v17/.futdcache.v2
+/Rapdio/obj/Debug/net8.0/Rapdio.csproj.FileListAbsolute.txt
+/Rapdio/obj/Debug/net8.0/Rapdio.assets.cache
+/.vs/Rapdio/v17/.futdcache.v2
