@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rapido")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f422710f9b19bf160640a1efe9cfc045db4edd35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdaf20ecf95ff34c076372cdb1c8e7aa454c572")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rapido")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rapido")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
