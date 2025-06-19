@@ -1,0 +1,6 @@
+@Rapido_HostAddress = http://localhost:5032
+
+GET {{Rapido_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
